@@ -1,363 +1,314 @@
 <div align="center">
 
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2622,50:8C5A42,100:D97757&height=220&section=header&text=LocalLink&fontSize=68&fontColor=FAF6F0&fontAlignY=42&animation=fadeIn&desc=Local%20help%2C%20minus%20the%20guesswork.&descAlignY=62&descSize=20&descColor=EFE3D6" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,50:0D1424,100:070B14&height=200&section=header&text=LocalLink&fontSize=70&fontColor=38BDF8&animation=fadeIn&fontAlignY=45&desc=Your%20village.%20Your%20people.%20Your%20network.&descAlignY=65&descSize=18&descColor=94A3B8" width="100%" />
+<br/>
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Find+a+trusted+electrician+nearby...;Find+a+plumber+in+Suliali...;Find+a+tutor+in+Jassur...;Find+help%2C+close+to+home." alt="Typing SVG" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/BUILT_FOR-Nurpur_%26_Nearby_Villages-8B5CF6?style=for-the-badge&labelColor=070B14" />
-
-<br /><br />
-
-<a href="https://mehaklol.github.io/Local-link/">
-  <img src="https://img.shields.io/badge/●_LIVE_DEMO-38BDF8?style=for-the-badge&logoColor=white&labelColor=070B14" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=2800&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=Every+street+has+someone+who+can+fix+this.;LocalLink+just+helps+you+find+them.;No+scrolling+group+chats.+No+guesswork." alt="Typing SVG" />
 </a>
-<a href="https://github.com/mehaklol/Local-link">
-  <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=070B14" />
-</a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/React-070B14?style=flat-square&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Vite-070B14?style=flat-square&logo=vite&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-070B14?style=flat-square&logo=tailwindcss&logoColor=22D3EE" />
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/mehaklol/Local-link/main/.github/assets/divider.svg" width="100%" alt="" onerror="this.style.display='none'" />
-
-&nbsp;
-
-```
-────────────────────────────────────────────────────────────
-        ⋆ ⋆ ⋆   a quiet corner of the internet for
-                 real people who fix real things   ⋆ ⋆ ⋆
-────────────────────────────────────────────────────────────
-```
-
-</div>
-
-<br />
-
-## ⌁ THE PROBLEM IS LOCAL.
-
-<div align="center">
-
-Finding help in a small town has never really been about *technology*. <br/>
-It's been about *who you know.*
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### ✕ WITHOUT LOCALLINK
-
-<br/>
-
-❌ &nbsp; Random contacts, passed around <br/><br/>
-❌ &nbsp; Asking three neighbours first <br/><br/>
-❌ &nbsp; Travelling into town for small jobs <br/><br/>
-❌ &nbsp; No idea what it'll cost <br/><br/>
-❌ &nbsp; No way to compare anyone
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### ✓ WITH LOCALLINK
-
-<br/>
-
-✅ &nbsp; Providers already near you <br/><br/>
-✅ &nbsp; Sorted by service category <br/><br/>
-✅ &nbsp; Profiles you can actually check <br/><br/>
-✅ &nbsp; Approximate pricing upfront <br/><br/>
-✅ &nbsp; Direct contact, no middleman
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-## ⌁ HOW IT WORKS
-
-<div align="center">
-
-<table>
-<tr><td align="center">
-
-**📍 Choose Area**
-<br/><sub>Nurpur, Suliali, Jassur & nearby</sub>
-
-</td></tr>
-<tr><td align="center">↓</td></tr>
-<tr><td align="center">
-
-**🔎 Find Service**
-<br/><sub>Pick a category — electrician, tutor, mechanic...</sub>
-
-</td></tr>
-<tr><td align="center">↓</td></tr>
-<tr><td align="center">
-
-**👤 Explore Provider**
-<br/><sub>See who's actually nearby</sub>
-
-</td></tr>
-<tr><td align="center">↓</td></tr>
-<tr><td align="center">
-
-**⭐ Check Details**
-<br/><sub>Rating, pricing, availability</sub>
-
-</td></tr>
-<tr><td align="center">↓</td></tr>
-<tr><td align="center">
-
-**📞 Call / Request**
-<br/><sub>Reach out directly</sub>
-
-</td></tr>
-<tr><td align="center">↓</td></tr>
-<tr><td align="center">
-
-**✅ Get Help**
-<br/><sub>No travel, no guesswork</sub>
-
-</td></tr>
-</table>
-
-</div>
-
-<br />
-
-## ⌁ LOCAL COVERAGE
-
-<div align="center">
-
-<sub>a small network, growing village by village</sub>
 
 <br/><br/>
 
-**Nurpur** ⟶ **Suliali** ⟶ **Sadwan** ⟶ **Jassur** ⟶ **Kandwal** ⟶ **Rehan** ⟶ **Gangath**
+<a href="https://mehakpathania07.github.io/Local-link/"><img src="https://img.shields.io/badge/●-LIVE_DEMO-D97757?style=for-the-badge&labelColor=1A1714&color=D97757" /></a>
+<a href="https://github.com/mehakpathania07/Local-link"><img src="https://img.shields.io/badge/●-SOURCE-7A8B6F?style=for-the-badge&labelColor=1A1714&color=7A8B6F" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-1A1714?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-1A1714?style=flat-square&logo=vite&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1A1714?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/JavaScript-1A1714?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/GitHub_Pages-1A1714?style=flat-square&logo=githubpages&logoColor=EFE3D6" />
+
+</div>
 
 <br/>
 
-<sub>also reaching · Raja Ka Talab · Damtal</sub>
-
+<div align="center">
+<sub>◆ ◆ ◆</sub>
 </div>
 
-<br />
+<br/>
 
-## ⌁ SERVICES
-
-<div align="center">
+## `01` &nbsp; THE GAP
 
 <table>
 <tr>
-<td align="center" width="20%">⚡<br/><b>Electrician</b></td>
-<td align="center" width="20%">🔧<br/><b>Plumber</b></td>
-<td align="center" width="20%">🪚<br/><b>Carpenter</b></td>
-<td align="center" width="20%">🎨<br/><b>Painter</b></td>
-<td align="center" width="20%">🏍️<br/><b>Mechanic</b></td>
-</tr>
-<tr><td colspan="5">&nbsp;</td></tr>
-<tr>
-<td align="center" width="20%">📚<br/><b>Tutor</b></td>
-<td align="center" width="20%">📱<br/><b>Mobile Repair</b></td>
-<td align="center" width="20%">💻<br/><b>Computer Repair</b></td>
-<td align="center" width="20%">📸<br/><b>Photographer</b></td>
-<td align="center" width="20%">✂️<br/><b>Tailor</b></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-</div>
+**What actually happens** when your tap leaks at 9pm.
 
-<br />
+You don't have a plumber saved. So you ask a group chat. Someone sends a number with no context. It rings twice and dies. Another person swears by *"the guy near the market"* — but doesn't remember his name. Forty minutes later, you're no closer to a fixed tap, just tired.
 
-## ⌁ WHAT THE USER SEES
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-**Rakesh Thakur** <br/>
-⚡ Electrician <br/>
-📍 Suliali, Nurpur <br/>
-⭐ 4.8 &nbsp;·&nbsp; ₹300 starting <br/>
-🟢 Available today
-
-</div>
+This isn't a plumbing problem. It's a **discovery** problem — repeated across electricians, tutors, mechanics, painters, tailors, and every other local skill that keeps a neighborhood running.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<div align="center">
+**Where the friction lives**
 
-**Pooja Sharma** <br/>
-📚 Tutor — Maths & Science <br/>
-📍 Jassur, Nurpur <br/>
-⭐ 4.6 &nbsp;·&nbsp; ₹150 / hour <br/>
-🟢 Available this week
+<br/>
 
-</div>
+`→` No single place to look
+
+`→` Word-of-mouth doesn't scale
+
+`→` No sense of who's actually available
+
+`→` Zero context before you make contact
+
+`→` Trust built from scratch, every time
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:7A8B6F&height=3&width=1000" />
 </div>
 
-<br />
+<br/>
 
-## ⌁ THE EXPERIENCE
+## `02` &nbsp; THE CONNECTION
+
+LocalLink doesn't reinvent how people find help — it just removes everything standing between the need and the fix.
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="16.6%">
 
-**🧭 Local Discovery**
+**Discover**
 <br/>
-Browse providers grouped by the villages and towns around Nurpur — not a generic city list.
+<sub>see who's nearby</sub>
 
 </td>
-<td width="33%" valign="top">
+<td align="center">◈</td>
+<td align="center" width="16.6%">
 
-**🪪 Provider Profiles**
+**Search**
 <br/>
-Every provider has a simple profile: what they do, where they're based, and how to reach them.
+<sub>by skill or need</sub>
 
 </td>
-<td width="33%" valign="top">
+<td align="center">◈</td>
+<td align="center" width="16.6%">
 
-**🔎 Category Search**
+**Explore**
 <br/>
-Jump straight to the service you need instead of scrolling through everything.
-
-</td>
-</tr>
-<tr><td colspan="3">&nbsp;</td></tr>
-<tr>
-<td width="33%" valign="top">
-
-**📞 Direct Requests**
-<br/>
-Reach a provider directly — no middleman, no waiting on a call centre.
-
-</td>
-<td width="33%" valign="top">
-
-**⭐ Ratings & Reviews**
-<br/>
-A quick sense of who's reliable, from people who've actually used them.
-
-</td>
-<td width="33%" valign="top">
-
-**📍 Area-Based Browsing**
-<br/>
-See who's genuinely close by, area by area.
+<sub>profiles &amp; details</sub>
 
 </td>
 </tr>
 </table>
 
-<br />
+<img src="https://img.shields.io/badge/-↓-transparent?style=flat-square" />
 
-## ⌁ BUILT WITH
+<table>
+<tr>
+<td align="center" width="16.6%">
 
-<div align="center">
+**Connect**
+<br/>
+<sub>reach out directly</sub>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Vite-070B14?style=for-the-badge&logo=vite&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-070B14?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/JavaScript-070B14?style=for-the-badge&logo=javascript&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/GitHub_Pages-070B14?style=for-the-badge&logo=github&logoColor=94A3B8" />
+</td>
+<td align="center">◈</td>
+<td align="center" width="16.6%">
+
+**Request**
+<br/>
+<sub>state what you need</sub>
+
+</td>
+<td align="center">◈</td>
+<td align="center" width="16.6%">
+
+**Complete**
+<br/>
+<sub>the job gets done</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br />
+<br/>
 
-## ⌁ PROJECT STRUCTURE
+No accounts to configure. No forms to wade through. Six honest steps between *"I need help"* and *"it's handled."*
+
+<br/>
+
+<div align="center">
+<sub>◆ ◆ ◆</sub>
+</div>
+
+<br/>
+
+## `03` &nbsp; WHAT PEOPLE ARE LOOKING FOR
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⚡_Electrician-2B2622?style=flat-square&labelColor=D97757&color=2B2622" />
+<img src="https://img.shields.io/badge/🔧_Plumber-2B2622?style=flat-square&labelColor=7A8B6F&color=2B2622" />
+<img src="https://img.shields.io/badge/🔩_Mechanic-2B2622?style=flat-square&labelColor=D97757&color=2B2622" />
+<img src="https://img.shields.io/badge/📘_Tutor-2B2622?style=flat-square&labelColor=7A8B6F&color=2B2622" />
+<br/>
+<img src="https://img.shields.io/badge/🪚_Carpenter-2B2622?style=flat-square&labelColor=D97757&color=2B2622" />
+<img src="https://img.shields.io/badge/🎨_Painter-2B2622?style=flat-square&labelColor=7A8B6F&color=2B2622" />
+<img src="https://img.shields.io/badge/📱_Mobile_Repair-2B2622?style=flat-square&labelColor=D97757&color=2B2622" />
+<img src="https://img.shields.io/badge/💻_Computer_Repair-2B2622?style=flat-square&labelColor=7A8B6F&color=2B2622" />
+<br/>
+<img src="https://img.shields.io/badge/🧵_Tailor-2B2622?style=flat-square&labelColor=D97757&color=2B2622" />
+<img src="https://img.shields.io/badge/📷_Photographer-2B2622?style=flat-square&labelColor=7A8B6F&color=2B2622" />
+<img src="https://img.shields.io/badge/🧹_Cleaning-2B2622?style=flat-square&labelColor=D97757&color=2B2622" />
+<img src="https://img.shields.io/badge/➕_and_more-2B2622?style=flat-square&labelColor=6B6459&color=2B2622" />
+
+</div>
+
+<br/>
+
+Every category is treated as its own small marketplace — browsable on its own, searchable on its own, never buried under a generic "services" dropdown.
+
+<br/>
+
+<div align="center">
+<sub>◆ ◆ ◆</sub>
+</div>
+
+<br/>
+
+## `04` &nbsp; BUILT ON TRUST, NOT BLIND FAITH
+
+Handing your house key problem to a stranger only works if you know *something* about them first. So before a request ever goes out, LocalLink surfaces:
+
+<table>
+<tr>
+<td align="center" width="20%">⭐<br/><sub><b>Ratings</b></sub></td>
+<td align="center" width="20%">✎<br/><sub><b>Reviews</b></sub></td>
+<td align="center" width="20%">☰<br/><sub><b>Provider details</b></sub></td>
+<td align="center" width="20%">◷<br/><sub><b>Availability</b></sub></td>
+<td align="center" width="20%">☏<br/><sub><b>Direct contact</b></sub></td>
+</tr>
+</table>
+
+<sub>Everything a person needs to feel confident *before* they reach out — nothing more, nothing manufactured.</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A8B6F,100:D97757&height=3&width=1000" />
+</div>
+
+<br/>
+
+## `05` &nbsp; THE BUILD
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+LocalLink is a single-page React application, styled entirely with Tailwind and shipped as a static build through GitHub Pages. No server, no backend — the entire experience lives in the frontend, built with intent:
+
+- Component-based architecture, built for reuse rather than repetition
+- Fully responsive across mobile, tablet, and desktop
+- Interactive discovery flow from category → profile → contact
+- Location-aware service browsing, designed around *"what's near me"*
+- Clean, deliberate file structure — nothing sprawling, nothing accidental
+- Continuous deployment straight from the repository to GitHub Pages
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>Project structure</b></summary>
+<br/>
 
 ```
 Local-link/
 ├── src/
-│   ├── components/
-│   ├── data/
-│   ├── pages/
+│   ├── components/     shared, reusable UI
+│   ├── pages/          route-level views
+│   ├── assets/         icons, images
 │   └── App.jsx
 ├── public/
-├── index.html
+├── tailwind.config.js
 └── vite.config.js
 ```
 
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B14,100:0D1424&height=2&width=100%25" width="100%" />
-
-<br/><br/>
-
-## TRY LOCALLINK →
+</details>
 
 <br/>
 
-<a href="https://mehaklol.github.io/Local-link/">
-  <img src="https://img.shields.io/badge/OPEN_LOCALLINK-38BDF8?style=for-the-badge&logoColor=white&labelColor=070B14&color=22D3EE" />
-</a>
-
-<br/><br/>
-
-<sub>https://mehaklol.github.io/Local-link/</sub>
-
+<div align="center">
+<sub>◆ ◆ ◆</sub>
 </div>
 
-<br />
-
-## ⌁ BUILT BY
+<br/>
 
 <div align="center">
 
-**Mehak Pathania** <br/>
+## `06` &nbsp; TRY IT
+
+<br/>
+
+**It only takes a minute to see the whole idea click into place.**
+
+<br/>
+
+<a href="https://mehakpathania07.github.io/Local-link/">
+<img src="https://img.shields.io/badge/OPEN_LOCALLINK-D97757?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/mehakpathania07/Local-link/">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-1A1714?style=for-the-badge&logoColor=D97757" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:7A8B6F&height=3&width=1000" />
+</div>
+
+<br/>
+
+<div align="center">
+
+## `07` &nbsp; THE BUILDER
+
+<br/>
+
+**Mehak Pathania**
+<br/>
 <sub>BCA Student · Developer</sub>
 
 <br/>
 
-<a href="https://github.com/mehaklol">
-  <img src="https://img.shields.io/badge/GitHub-mehaklol-070B14?style=for-the-badge&logo=github&logoColor=94A3B8" />
+<a href="https://github.com/mehakpathania07">
+<img src="https://img.shields.io/badge/GitHub-1A1714?style=flat-square&logo=github&logoColor=EFE3D6" />
 </a>
 
 </div>
 
-<br />
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,50:0D1424,100:070B14&height=120&section=footer" width="100%" />
-
-<sub>built between two villages, one line of code at a time ✦</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:8C5A42,100:2B2622&height=150&section=footer&text=Help%20shouldn't%20be%20hard%20to%20find.&fontSize=18&fontColor=FAF6F0&fontAlignY=75&animation=fadeIn" />
 
 </div>
