@@ -1,0 +1,6 @@
+{
+  "name": "LocalLink",
+  "description": "Simple, practical local services directory connecting households in Nurpur, Suliali, Sadwan, Jassur, and Kangra Valley with verified nearby craftspeople.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
